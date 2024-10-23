@@ -17,26 +17,20 @@ Write the C Program using Linux IO Systems locking
 
 Execute the C Program for the desired output. 
 
+### Developed By:
+### Register Number:
+
 # PROGRAM:
 
 ## 1.To Write a C program that illustrates files copying 
+```
 
-
-
-
-
-
-
+```
 ## 2.To Write a C program that illustrates files locking
+```
 
-
-
-
+```
 ## OUTPUT
-
-
-
-
 
 # RESULT:
 The programs are executed successfully.
